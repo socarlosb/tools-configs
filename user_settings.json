@@ -1,0 +1,24 @@
+{
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Source Code Pro",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.snippetSuggestions": "top",
+  "editor.wordWrap": "on",
+  "vsicons.dontShowConfigManuallyChangedMessage": true,
+  "vsicons.projectDetection.disableDetect": true,
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.iconTheme": "vscode-icons",
+  "git.confirmSync": false,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "javascript.format.enable": false,
+  "files.eol": "\n",
+  "emojisense.languages": {
+    "markdown": true,
+    "html": true,
+    "javascript": true,
+    "git-commit": true
+  }
+}
